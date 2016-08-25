@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Arthur Dent</title>
+    <link>https://you.github.io/blog/</link>
+    <description>Recent content in Blog on Arthur Dent</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 24 Aug 2016 22:59:22 -0400</lastBuildDate>
+    <atom:link href="https://you.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>https://you.github.io/blog/test/</link>
+      <pubDate>Wed, 24 Aug 2016 22:59:22 -0400</pubDate>
+      
+      <guid>https://you.github.io/blog/test/</guid>
+      <description>&lt;p&gt;test test test test test test test test test&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
