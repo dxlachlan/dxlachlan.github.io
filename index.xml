@@ -21,16 +21,14 @@
 
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://imgur.com/IbW1aa4&#34; title=&#34;Fuchinobe Station&#34; width=&#34;460&#34; height=&#34;340&#34; border=&#34;2&#34; /&gt;&lt;/p&gt;
-
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://dxlachlan.github.io/media/spf13.jpg&#34; /&gt;
+        &lt;img src=&#34;../img/fuchinobeStation.jpg&#34; width=&#34;460&#34; /&gt;
     
     
     &lt;figcaption&gt;
-        &lt;h4&gt;Steve Francia&lt;/h4&gt;
+        &lt;h4&gt;Fuchinobe Station&lt;/h4&gt;
         
     &lt;/figcaption&gt;
     
@@ -43,7 +41,19 @@
 
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/rFwOQxf.jpg&#34; title=&#34;Obirin 桜美林大学, Machida-Shi, Tokyo, Japan &#34; width=&#34;460&#34; height=&#34;340&#34; border=&#34;2&#34; /&gt;&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../img/obirinScenery.jpg&#34; width=&#34;460&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Obirin 桜美林大学, Machida-Shi, Tokyo, Japan &lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -51,7 +61,19 @@
 
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/sfp2stK.jpg&#34; title=&#34;Carpe Diem BJJ - Aoyama, Tokyo, Japan &#34; width=&#34;460&#34; height=&#34;340&#34; border=&#34;2&#34; /&gt;&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../img/carpeDiemAoyama.jpg&#34; width=&#34;460&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Carpe Diem BJJ - Aoyama, Tokyo, Japan &lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -59,7 +81,19 @@
 
 &lt;br&gt;&lt;br&gt;
 
-&lt;img src=&#34;http://i.imgur.com/IbW1aa4.jpg&#34; title=&#34;Downtown Shibuya, Tokyo, Japan&#34; with=&#34;460&#34; height=&#34;340&#34; border=&#34;2&#34; /&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../img/shibuya.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Downtown Shibuya, Tokyo, Japan&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;br&gt;&lt;br&gt;
 
